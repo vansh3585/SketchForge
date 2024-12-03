@@ -1,0 +1,11 @@
+## Python version: 3.11.3
+
+torch==2.0.1
+numpy==1.25.0
+tqdm==4.65.0
+transformers==4.33.2
+lightning==2.0.9
+pillow==9.5.0
+flask==2.3.3
+werkzeug==2.3.7
+flask-cors==4.0.0
